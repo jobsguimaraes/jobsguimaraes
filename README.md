@@ -2,7 +2,7 @@
 ## Jorbson 
 Lv. 31 
 <p>Profissional de marketing em transição de carreia para ciência de dados 2023.1
-# 
+</p>#<p></p> 
  <div>
   <a href="https://github.com/jobsguimaraes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jobsguimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,7 @@ Lv. 31
   <div> 
   <a href="instagram.com/jorbsonguimaraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jorbsonguimaraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jorbson-guimaraes-39a311250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jorbsonguimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
  
