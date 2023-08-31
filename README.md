@@ -1,5 +1,5 @@
-### Hi there 👋
-##
+### print("Hello World!") 👋
+## Jorbson, 31yrs, Profissional de marketing em transição de carreia para ciência de dados 2023.1
  <div>
   <a href="https://github.com/jobsguimaraes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jobsguimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
