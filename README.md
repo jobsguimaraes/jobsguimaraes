@@ -31,16 +31,4 @@ Lv. 31
 
  
 </div>
-<head>
-  <title>Portfólio Behance</title>
-  <style>
-    .behance-embed {
-      width: 100%;
-      height: 800px;
-    }
-  </style>
-</head>
-<body>
-  <div class="behance-embed">
-    <iframe src="https://www.behance.net/gallery/jorbson" frameborder="0" scrolling="no"></iframe>
-  </div>
+
