@@ -31,7 +31,8 @@ Lv. 31
 
  
 </div>
-<title>Portfólio Behance</title>
+<head>
+  <title>Portfólio Behance</title>
   <style>
     .behance-embed {
       width: 100%;
@@ -41,5 +42,5 @@ Lv. 31
 </head>
 <body>
   <div class="behance-embed">
-    <iframe src="https://www.behance.net/gallery/jorbson" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://www.behance.net/gallery/USERNAME" frameborder="0" scrolling="no"></iframe>
   </div>
