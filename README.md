@@ -27,7 +27,7 @@ Lv. 31
   <a href = "mailto:jorbsonguimaraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorbsonguimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- <img align="center" src="https://giphy.com/embed/ZFR9UV7j0pkSC8mdzi" width="480" height="154" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/developer-germano-obrunogermano-ZFR9UV7j0pkSC8mdzi">via GIPHY</a><</p>
+ <img align="center" src="[https://giphy.com/embed/ZFR9UV7j0pkSC8mdzi](https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif?cid=ecf05e471zerv5nm99tg1tqs7u4uihenbzrdcz6svotetnn9&ep=v1_gifs_search&rid=giphy.gif&ct=g)https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif?cid=ecf05e471zerv5nm99tg1tqs7u4uihenbzrdcz6svotetnn9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="154" frameBorder="0" class="giphy-embed" allowFullScreen><</p>
 
  
 </div>
