@@ -2,6 +2,7 @@
 ## Jorbson 
 Lv. 31 
 <p>Profissional de marketing em transição de carreia para ciência de dados 2023.1
+ <p>Marketing professional transitioning career to data science 2023.1
 </p>#<p></p> 
  <div>
   <a href="https://github.com/jobsguimaraes">
