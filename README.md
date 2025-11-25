@@ -24,21 +24,6 @@ Currently studying and working with:
 **Python • SQL • PostgreSQL • MongoDB • Git/GitHub • Docker • DevOps • CI/CD • Cloud • Machine Learning • APIs • AI Automation**
 
 With every project, I move closer to my goal: building smart, scalable solutions that create real-world impact.
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jorbs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jorbs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jorbs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jorbs-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Jorbs-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-  
-</div>
-  
-  ##
-
- 🌱 I’m currently learning Python
   
   <div> 
   <a href="instagram.com/jorbsonguimaraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
