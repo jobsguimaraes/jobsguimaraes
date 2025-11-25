@@ -13,7 +13,6 @@ A cada projeto, avanço um passo a mais rumo ao meu objetivo: criar soluções i
 
 ### 🇺🇸 English Version
 
-```md
 print("Hello World!") 👋  
 **Jorbson — Lv. 33**
 
@@ -30,8 +29,5 @@ With every project, I move closer to my goal: building smart, scalable solutions
   <a href = "mailto:jorbsonguimaraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorbsonguimaraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- <img align="center" src="https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif?id=ecf05e471zerv5nm99tg1tqs7u4uihenbzrdcz6svotetnn9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="154" frameBorder="0" class="giphy-embed" allowFullScreen></p>
-
- 
+ <img align="center" src="https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif?id=ecf05e471zerv5nm99tg1tqs7u4uihenbzrdcz6svotetnn9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="154" frameBorder="0" class="giphy-embed" allowFullScreen></p> 
 </div>
-
