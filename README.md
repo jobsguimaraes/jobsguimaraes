@@ -1,13 +1,30 @@
-### print("Hello World!") 👋
-## Jorbson 
-Lv. 31 
-<p>Profissional de marketing em transição de carreia para ciência de dados 2023.1
- <p>Marketing professional transitioning career to data science 2023.1
-</p>#<p></p> 
- <div>
-  <a href="https://github.com/jobsguimaraes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jobsguimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobsguimaraes&layout=compact&langs_count=7&theme=dracula"/>
+print("Hello World!") 👋  
+**Jorbson — Lv. 33**
+
+Profissional em transição para a área de tecnologia, unindo experiência docente a uma formação sólida no universo da computação.  
+Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduando em **Gestão de Banco de Dados**, sigo evoluindo diariamente rumo a uma carreira em engenharia de software, dados e automação inteligente.
+
+Atualmente estudo e pratico tecnologias como:  
+**Python • SQL • PostgreSQL • MongoDB • Git/GitHub • Docker • DevOps • CI/CD • Cloud • Machine Learning • APIs • Automação com IA**
+
+A cada projeto, avanço um passo a mais rumo ao meu objetivo: criar soluções inteligentes, escaláveis e com impacto real.
+
+---
+
+### 🇺🇸 English Version
+
+```md
+print("Hello World!") 👋  
+**Jorbson — Lv. 33**
+
+Professional transitioning into the tech industry, combining teaching experience with a strong and growing foundation in computing.  
+Graduate in **Systems Analysis and Development** and currently pursuing a postgraduate degree in **Database Management**, constantly evolving toward a career focused on software engineering, data and intelligent automation.
+
+Currently studying and working with:  
+**Python • SQL • PostgreSQL • MongoDB • Git/GitHub • Docker • DevOps • CI/CD • Cloud • Machine Learning • APIs • AI Automation**
+
+With every project, I move closer to my goal: building smart, scalable solutions that create real-world impact.
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jorbs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
